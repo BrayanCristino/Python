@@ -8,7 +8,7 @@ c = int(input(" 1 - Multiplicacao "+
               " 6 - Divisao Inteira"))
 if c == 1:
     valor4 = a*b
-
+    print(valor4)
 if c == 2:
     valor1 = a / b
     print(valor1)
